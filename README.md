@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasudaProduct)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,cs,java,swift)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nestjs,nextjs,react,prisma)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,docker,aws,jenkins)](https://skillicons.dev)<br/>
+
+
